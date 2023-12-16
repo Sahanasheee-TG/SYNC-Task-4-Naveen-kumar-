@@ -1,0 +1,98 @@
+.header{
+width: 100%;
+height: 50px;
+background-color: wheat;
+border-radius: 25px;
+}
+.header h1{
+margin-left: 20px ;
+}
+.header h2{
+margin-left: 53%;
+margin-top: -45px;
+position: absolute;
+font-size: 22px;
+}
+.header h2:hover{
+color: blue;
+}
+.header h3{
+margin-left: 63%;
+margin-top: -45px;
+position: absolute;
+font-size: 22px;
+}
+.header h3:hover{
+color: blue;
+}
+.header h4{
+margin-left: 72%;
+margin-top: -45px;
+position: absolute;
+font-size: 22px;
+}
+.header h4:hover{
+color: blue;
+}
+.header h5{
+margin-left: 82%;
+margin-top: -45px;
+position: absolute;
+font-size: 22px;
+}
+.header h5:hover{
+color: blue;
+}
+.inf h1{
+font-size: 50px;
+margin-top: 80px;
+margin-left: 250px;
+}
+.inf h2{
+font-size: 25px;
+margin-top: 50px;
+margin-left: 350px;
+}
+.inf h3{
+font-size: 25px;
+margin-top: 15px;
+margin-left: 180px;
+}
+.btn button{
+width: 100px;
+height: 30px;
+background-color: blue;
+color: red;
+border-radius: 50px;
+margin-left: 550px;
+position: absolute;
+}
+.btn button:hover{
+transform: scale(1.5,1);
+}
+.why h1{
+margin-left: 50px;
+}
+.why p{
+font-size: 22px;
+margin-left: 80px;
+}
+.course{
+margin-left: 50px;
+}
+.course h2{
+margin-left: 50px;
+}
+.teach h1{
+margin-left: 50px;
+}
+.teach p{
+margin-left: 80px;
+font-size: 22px;
+}
+.contact h1{
+margin-left: 50px;
+}
+.contact h2{
+margin-left: 80px;
+}
